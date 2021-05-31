@@ -1,1 +1,2 @@
-# contract
+# Smart Contract 
+# Binance smart chain 
